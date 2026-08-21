@@ -69,3 +69,93 @@ Traditional image classification relies on shape and colour, but TDA captures **
 
 ## Repository Structure
 
+## How to Run
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/yourusername/skin-lesion-tda-classification.git
+cd skin-lesion-tda-classification
+
+2. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Run the analysis
+
+Open notebooks/tda_skin_lesion_analysis.ipynb in Google Colab or Jupyter Notebook.
+
+4. Upload images
+
+Use the upload_images() function to load your own skin lesion images.
+
+5. View results
+
+Persistence diagrams and barcodes will be saved to the results/ directory.
+
+---
+
+Results
+
+[You can add a screenshot of your persistence diagram here]
+
+```
+[Placeholder for persistence diagram]
+```
+
+What the diagram shows:
+
+· Features far from the diagonal represent significant topological structures
+· H₁ features (loops) that persist across long scales indicate structural complexity
+· Melanoma lesions show more persistent H₁ features than benign lesions
+
+---
+
+Future Work
+
+· Extend analysis to larger datasets with more lesion types
+· Combine TDA with deep learning (convolutional neural networks)
+· Build a user-friendly web application for dermatologists
+· Integrate with clinical diagnostic workflows
+
+---
+
+Author
+
+Mihle Nteyi
+
+· 📧 Email: mihlenteyi.g@gmail.com
+· 📱 Phone: 0614929689
+· 📍 Location: Durban, South Africa
+· 🔗 LinkedIn: [Your LinkedIn URL]
+· 🐙 GitHub: github.com/yourusername
+
+---
+
+Supervisor
+
+Dr Cerene Rathilal and Prof. K.J. Duffy
+School of Mathematics
+University of KwaZulu-Natal
+
+---
+
+License
+
+This project is for research and educational purposes. For commercial use, please contact the author.
+
+---
+
+Acknowledgements
+
+This research was conducted at the University of KwaZulu-Natal, School of Mathematics. Special thanks to my supervisors for their guidance and support throughout this project.
+
+---
+
+"Uncovering Hidden Structures: A Study of Persistent Homology in Topological Data Analysis"
+
+```
+
+---
+
