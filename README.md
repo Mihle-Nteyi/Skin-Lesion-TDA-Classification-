@@ -53,17 +53,17 @@ Topological Data Analysis (TDA) offers a powerful framework for analysing the sh
 
 **Benign Lesion:**
 
-![Benign Persistence Diagram](results/benign_persistence_diagram.png)
+![Benign Persistence Diagram](results/benign%20_persistence_diagram.png)
 
 **Melanoma (Malignant):**
 
-![Melanoma Persistence Diagram](results/melanoma_persistence_diagram.png)
+![Melanoma Persistence Diagram](results/melanoma%20_persistence_diagram.png)
 
 ### Barcodes
 
 **Benign Barcode:**
 
-![Benign Barcode](results/benign_barcode.png)
+![Benign Barcode](results/benign%20_barcode.png)
 
 **Melanoma Barcode:**
 
